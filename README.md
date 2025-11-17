@@ -131,7 +131,8 @@ demo.launch()
 
 ### OUTPUT:
 
-<img width="1042" height="583" alt="Screenshot 2025-11-14 114834" src="https://github.com/user-attachments/assets/a4047917-4079-42b4-8996-8b3ca64282e1" />
+<img width="1865" height="861" alt="image" src="https://github.com/user-attachments/assets/7dce3782-c70c-4ec9-b7b7-b216e28cbc18" />
+
 
 
 ### RESULT:
